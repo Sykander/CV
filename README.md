@@ -1,6 +1,7 @@
-## Your Name
+## Douglas Thomson
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
 
 ## Skills
 
@@ -23,33 +24,41 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jul-Oct 19)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### King's College London (2012 - 2015)
+- BSc Hons, Mathematics (Real, Complex and Fourier Analysis, Group and Ring Theory)
+- 2:1
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Cambridge University (2009 - 2011)
+- Natural Science (Physics, Material Science, Chemistry, Maths)
+- Personnel Officer for Homerton College June Event
 
-#### Any other qualifications
+#### Helsby High School (2002 - 2009)
+- A-Levels: Maths A, Further Maths A, Physics A, Chemistry B, Biology A
+- GCSEs: 4 A*s, 5 As, 1 C
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Planning Inc** (Oct '15 to Jan 19')
+*Database Engineer*
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Huddle** (Oct '13)
+*Work experience User Interface Researcher*
+
+## Qualifications and Skills
+
+Familiar with Adobe Photoshop and Illustrator
 
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+- Yoga
+- Cycling
+- Running
