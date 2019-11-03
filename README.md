@@ -43,7 +43,7 @@ I thrive in the company of people who share my appreciation for good engineering
 
 ## Experience
 
-**Makers** (July 2019 – Oct 2019) - **_Software Developer_**
+### **Makers** (July 2019 – Oct 2019) - **_Software Developer_**
 
 Intensive 16 week bootcamp with a focus on:
 - Languages - JavaScript, Ruby, HTML/CSS
@@ -52,7 +52,7 @@ Intensive 16 week bootcamp with a focus on:
 - Testing suites - RSpec, Capybara, Jasmine
 - Databases - PostgreSQL
 
-**Planning-Inc** (Oct 2015 – Dec 2018) - **_SQL Developer & Database Engineer_**
+### **Planning-Inc** (Oct 2015 – Dec 2018) - **_SQL Developer & Database Engineer_**
 
 Microsoft Certification 70-761: Querying Data with Transact-SQL
 
@@ -62,32 +62,32 @@ Microsoft Certification 70-761: Querying Data with Transact-SQL
 - Extensive development of SSIS packages and scheduled tasks to perform ETL on hundreds of daily files along with QA and validation of incoming data.
 - Start-up member of team for major new household name UK retailer client, I acted as solution architect, designing an optimised database structure.
 
-**itsTheFlashPack** (2018 - Present) - _**Freelance Technologist**_
+### **itsTheFlashPack** (2018 - Present) - _**Freelance Technologist**_
 
 - Client and Customer roles when deploying and maintaining complex AV capture systems.
 - Point of contact for any technical issues and responsible for troubleshooting and fixing equipment under time pressure in a public environment.
 
-**itsTheFlashPack** (Aug 2014 - Feb 2015) - _**Photobooth Operator**_
+### **itsTheFlashPack** (Aug 2014 - Feb 2015) - _**Photobooth Operator**_
 - Delivery and construction of event photo-booths, technical repairs and hosting.
 
-**King’s Maths School** (Sept 2013 – Dec 2014) - _**Teaching Assistant**_
+### **King’s Maths School** (Sept 2013 – Dec 2014) - _**Teaching Assistant**_
 - Maths GCSE tutor at King’s College London’s for high achieving maths pupils
 
-**Huddle** (Oct 2013) - _**User Interface Researcher**_
+### **Huddle** (Oct 2013) - _**User Interface Researcher**_
 - Researching and analysing user interaction with products, and producing recommendation reports
 
 ---
 
 ## Education
 
-**King's College London** (2012 - 2015)
+### **King's College London** (2012 - 2015)
 - BSc Hons, Mathematics (Real, Complex and Fourier Analysis, Group and Ring Theory)
 - 2:1
 
-**Cambridge University** (2009 - 2011)
+### **Cambridge University** (2009 - 2011)
 - Natural Sciences (Physics, Material Science, Chemistry, Maths)
 
-**Helsby High School** (2002 - 2009)
+### **Helsby High School** (2002 - 2009)
 - A-Levels: Maths A, Further Maths A, Physics A, Chemistry B, Biology A
 
 ---
