@@ -1,4 +1,4 @@
-## Douglas Thomson
+# Douglas Thomson
 
 A recently graduated [Makers](https://makers.tech) software engineer, I have ample experience in database engineering, programming, automating and coding. As someone who is naturally drawn to complex, tricky problems, programming enables me to construct powerful and creative solutions.
 
@@ -78,46 +78,22 @@ Microsoft Certification 70-761: Querying Data with Transact-SQL
 
 ---
 
+## Education
 
-## King's College London (2012 - 2015)
+**King's College London** (2012 - 2015)
 - BSc Hons, Mathematics (Real, Complex and Fourier Analysis, Group and Ring Theory)
 - 2:1
 
-#### Cambridge University (2009 - 2011)
+**Cambridge University** (2009 - 2011)
 - Natural Sciences (Physics, Material Science, Chemistry, Maths)
 
-#### Helsby High School (2002 - 2009)
+**Helsby High School** (2002 - 2009)
 - A-Levels: Maths A, Further Maths A, Physics A, Chemistry B, Biology A
 
-## Education
+---
 
-2012 – 2015: King’s College London, University of London
-              BSc Hons, Mathematics (Real, Complex and Fourier Analysis; Group and Ring Theory), 2:1
-
-2009 – 2011  Homerton College, Cambridge University
-              Natural Sciences (Physics; Material Science; Chemistry; Maths), Withdrew
-
-2002 – 2009 Helsby High School (Cheshire)
-              A-level: Maths A, Further Maths A, Physics A, Chemistry B, Biology A
-
-
-Interests
+## Interests
 
 - Yoga : I've practiced yoga for three years and have been volunteering at a local studio since March.
 - Cycling : I competed in the Transcontinental Race #6 (2018). This edition ran between Belgium and Greece, covering 4000km in distance in 14 days
 - Running : Keen long distance runner with four marathons underfoot. Part of Midnight Runners and completed personal challenge of 20 park runs in one year.
-
-
-
-
-
-## Qualifications and Skills
-
-Familiar with Adobe Photoshop and Illustrator
-
-## Interests
-- Yoga : I've been practicing yoga for a few years and have been volunteering at a local studio since March. I intend to take a 200hr teacher training course in 2020
-- Cycling : I raced in and completed the Transcontinental Race #6 (2018). This edition took me from Belgium to Greece over 14 days, covering ~4000km in distance and 40km in climbing
-- Running : Keen long distance runner with 4 marathons underfoot. Part of Midnight Runners
-- Gaming : Helped organise an international tournament which included team mentorship for new players.
-- Events : Social secretary at Nutford House and Homerton College. Homerton May Ball personel officer. Friendmas: Dec '18
