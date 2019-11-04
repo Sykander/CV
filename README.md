@@ -96,4 +96,4 @@ Microsoft Certification 70-761: Querying Data with Transact-SQL
 
 - Yoga : I've practiced yoga for three years and have been volunteering at a local studio since March.
 - Cycling : I competed in the Transcontinental Race #6 (2018). This edition ran between Belgium and Greece, covering 4000km in distance in 14 days
-- Running : Keen long distance runner with four marathons underfoot. Part of Midnight Runners and completed personal challenge of 20 park runs in one year.
+- Running : Keen long distance runner with four marathons underfoot. Part of Midnight Runners and completed the personal challenge of 50 Parkruns in a single year.
