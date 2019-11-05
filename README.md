@@ -6,7 +6,7 @@ Following a degree in Mathematics at King’s College London, I spent three year
 
 I thrive in the company of people who share my appreciation for good engineering and desire for continual development. I’m excited to take the perspectives and tools I have gained this year into the next stage of my career.
 
-| [Skills](#Skills) | [Projects](#Projects) | [Experience](#Experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/douglas-thomson-59a74b95/) |
+| [Skills](#Skills) | [Experience](#Experience) |[Interests](#interests) | [Projects](#Projects) | [LinkedIn](https://www.linkedin.com/in/douglas-thomson-59a74b95/) |
 |---|---|---|---|---|
 
 ---
@@ -27,17 +27,6 @@ I thrive in the company of people who share my appreciation for good engineering
 ### Knowledge Sharing
 - I became an expert in Planning-Inc’s code base and was responsible for onboarding new team members.
 - While at Makers I ran informal workshops for our group projects, sharing technical knowledge and developing the direction of the project.
-
----
-
-## Projects
-
-| Project | Timeframe | Summary | Technologies | Testing |
-|---|---|---|---|---|
-| [Boris Bikes: The Game](https://github.com/dtrts/BorisBikes-TheGame) | 2 Weeks | Browser-based resource management video game, simulating bicycle infrastructure in the city. A final and self-directed group project for Makers. | Vanilla JavaScript, HTML/CSS | Jasmine, Karma |
-| [ConnectU](https://github.com/dtrts/acebook-ConnectU) | 2 Weeks | Facebook clone assigned as a Makers group project. An introduction to Ruby on Rails with a focus on high-quality team processes. | Ruby on Rails | RSpec, Capybara. |
-| [MakersBnB](https://github.com/dtrts/makersbnb) | 1 Week | AirBnB clone assigned as a Makers group project. Required taking a technical specification and turning it into an app.| Ruby with Sinatra | RSpec, Capybara. |
-| [Chitter](https://github.com/dtrts/chitter-challenge) | 2 Days | Twitter clone built as a solo weekend challenge.   | Ruby, Sinatra, ActiveRecord | RSpec, Capybara |
 
 ---
 
@@ -89,6 +78,17 @@ Microsoft Certification 70-761: Querying Data with Transact-SQL
 
 ### **Helsby High School** (2002 - 2009)
 - A-Levels: Maths A, Further Maths A, Physics A, Chemistry B, Biology A
+
+---
+
+## Projects
+
+| Project | Timeframe | Summary | Technologies | Testing |
+|---|---|---|---|---|
+| [Boris Bikes: The Game](https://github.com/dtrts/BorisBikes-TheGame) | 2 Weeks | Browser-based resource management video game, simulating bicycle infrastructure in the city. A final and self-directed group project for Makers. | Vanilla JavaScript, HTML/CSS, Github Pages | Jasmine, Karma |
+| [ConnectU](https://github.com/dtrts/acebook-ConnectU) | 2 Weeks | Facebook clone assigned as a Makers group project. An introduction to Ruby on Rails with a focus on high-quality team processes. | Ruby on Rails, Heroku | RSpec, Capybara. |
+| [MakersBnB](https://github.com/dtrts/makersbnb) | 1 Week | AirBnB clone assigned as a Makers group project. Required taking a technical specification and turning it into an app.| Ruby with Sinatra, Heroku | RSpec, Capybara. |
+| [Chitter](https://github.com/dtrts/chitter-challenge) | 2 Days | Twitter clone built as a solo weekend challenge.   | Ruby, Sinatra, ActiveRecord | RSpec, Capybara |
 
 ---
 
